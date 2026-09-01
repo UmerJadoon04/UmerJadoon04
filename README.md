@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @UmerJadoon04
-- 👀 I’m a Software Quality Engineer and eager to do automation testing as much as i can. 
-- 🌱 I’m currently doing automation testing on different tools and frameworks.
-- 💞️ I’m looking to collaborate on different projects to give my best and show what i learn.
-- 📫 you can reach me through my gmail (umerayazjadoon@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You can't hum while holding your nose. When you hum, air has to escape through your nose to create the sound, which is impossible if you're holding it shut.
+Hi, I'm Umer Jadoon 👋
+
+Software Quality Engineer focused on test automation — building reliable, maintainable test suites for web applications and APIs.
+
+🧰 What I Work With
+Automation: Cypress (JavaScript), Page Object Model architecture
+Testing Types: UI/E2E testing, API testing, functional testing, regression testing
+Practices: Fixture-based test data, custom commands, positive & negative test case design
+🔧 Featured Project
+
+AutomationExercise Cypress Test Suite A complete end-to-end and API test automation framework built with Cypress, using the Page Object Model design pattern. Covers account management, product search, cart operations, checkout flow, and REST API validation (positive and negative cases).
+
+🌱 Currently
+
+Deepening my automation skills across different tools and frameworks, with a focus on writing clean, scalable, and maintainable test code.
+
+🤝 Let's Collaborate
+
+I'm open to collaborating on testing projects where I can contribute and keep learning. Feel free to reach out.
+
+📫 Contact
+Email: umerayazjadoon@gmail.com
+Pronouns: He/Him.
 
 
